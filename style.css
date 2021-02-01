@@ -1,0 +1,58 @@
+.move{
+
+    background-image: url("images/");
+}
+
+
+
+.card-footer{
+
+    border: none;
+    background-color: white;
+}
+
+.card{
+
+    border: none;
+    box-shadow: 10px 10px 40px lightgray;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card img{
+
+    margin-top: 50px;
+}
+
+.container h3{
+
+    margin-bottom: 30px;
+}
+
+.container{
+
+    margin-bottom: 70px;
+}
+
+.box{
+
+    box-shadow: 5px 5px 40px lightgray;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.beauty, .shoes{
+    border-radius: 15px 0px 30px 0px;
+}
+
+.bag{
+
+    border-radius: 0px 15px 0px 30px;    
+}
+
+.box img{
+
+    margin: 50px;
+}
+
